@@ -1,0 +1,35 @@
+c:\users\dell\documents\visual studio 2012\Projects\Gym Manegment System\Gym Manegment System\bin\Debug\Gym Manegment System.exe.config
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\Gym Manegment System\Gym Manegment System\bin\Debug\Gym Manegment System.exe
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\Gym Manegment System\Gym Manegment System\bin\Debug\Gym Manegment System.pdb
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\Gym Manegment System\Gym Manegment System\obj\Debug\Gym Manegment System.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\Gym Manegment System\Gym Manegment System\obj\Debug\Gym_Manegment_System.Form1.resources
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\Gym Manegment System\Gym Manegment System\obj\Debug\Gym_Manegment_System.Properties.Resources.resources
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\Gym Manegment System\Gym Manegment System\obj\Debug\Gym Manegment System.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\Gym Manegment System\Gym Manegment System\obj\Debug\Gym Manegment System.exe
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\Gym Manegment System\Gym Manegment System\obj\Debug\Gym Manegment System.pdb
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\Gym Manegment System\Gym Manegment System\obj\Debug\Gym_Manegment_System.Form2.resources
+C:\Users\Dell\documents\visual studio 2012\Projects\Gym Manegment System\Gym Manegment System\bin\Debug\dbgym.sdf
+C:\Users\Dell\documents\visual studio 2012\Projects\Gym Manegment System\Gym Manegment System\obj\Debug\Gym_Manegment_System.Billing.resources
+C:\Users\Dell\documents\visual studio 2012\Projects\Gym Manegment System\Gym Manegment System\obj\Debug\Gym_Manegment_System.Equipment.resources
+C:\Users\Dell\documents\visual studio 2012\Projects\Gym Manegment System\Gym Manegment System\obj\Debug\Gym_Manegment_System.login.resources
+C:\Users\Dell\documents\visual studio 2012\Projects\Gym Manegment System\Gym Manegment System\obj\Debug\Gym_Manegment_System.MainPage.resources
+C:\Users\Dell\documents\visual studio 2012\Projects\Gym Manegment System\Gym Manegment System\obj\Debug\Gym_Manegment_System.Product.resources
+C:\Users\Dell\documents\visual studio 2012\Projects\Gym Manegment System\Gym Manegment System\bin\Debug\Dbgym2.mdf
+C:\Users\Dell\documents\visual studio 2012\Projects\Gym Manegment System\Gym Manegment System\bin\Debug\Dbgym2_log.ldf
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\Gym Manegment System\Gym Manegment System\bin\Debug\Database1.mdf
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\Gym Manegment System\Gym Manegment System\bin\Debug\Database1_log.ldf
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\Gym Manegment System\Gym Manegment System\bin\Debug\gymsystem.mdf
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\Gym Manegment System\Gym Manegment System\bin\Debug\gymsystem_log.ldf
+G:\Pranav\PRANAV DOCX\Gym Manegment System_rohan\Gym Manegment System\bin\Debug\Gym Manegment System.exe.config
+G:\Pranav\PRANAV DOCX\Gym Manegment System_rohan\Gym Manegment System\obj\Debug\Gym Manegment System.exe
+G:\Pranav\PRANAV DOCX\Gym Manegment System_rohan\Gym Manegment System\obj\Debug\Gym Manegment System.pdb
+G:\Pranav\PRANAV DOCX\Gym Manegment System_rohan\Gym Manegment System\obj\Debug\Gym Manegment System.csprojResolveAssemblyReference.cache
+G:\Pranav\PRANAV DOCX\Gym Manegment System_rohan\Gym Manegment System\obj\Debug\Gym_Manegment_System.Billing.resources
+G:\Pranav\PRANAV DOCX\Gym Manegment System_rohan\Gym Manegment System\obj\Debug\Gym_Manegment_System.Form1.resources
+G:\Pranav\PRANAV DOCX\Gym Manegment System_rohan\Gym Manegment System\obj\Debug\Gym_Manegment_System.Equipment.resources
+G:\Pranav\PRANAV DOCX\Gym Manegment System_rohan\Gym Manegment System\obj\Debug\Gym_Manegment_System.login.resources
+G:\Pranav\PRANAV DOCX\Gym Manegment System_rohan\Gym Manegment System\obj\Debug\Gym_Manegment_System.Form2.resources
+G:\Pranav\PRANAV DOCX\Gym Manegment System_rohan\Gym Manegment System\obj\Debug\Gym_Manegment_System.MainPage.resources
+G:\Pranav\PRANAV DOCX\Gym Manegment System_rohan\Gym Manegment System\obj\Debug\Gym_Manegment_System.Product.resources
+G:\Pranav\PRANAV DOCX\Gym Manegment System_rohan\Gym Manegment System\obj\Debug\Gym_Manegment_System.Properties.Resources.resources
+G:\Pranav\PRANAV DOCX\Gym Manegment System_rohan\Gym Manegment System\obj\Debug\Gym Manegment System.csproj.GenerateResource.Cache
